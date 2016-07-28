@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        guard let playerURL = NSURL(string: "https://github.com/Grigs-b/subtitle-test/subtitle-test.m3u8") else {
+        guard let playerURL = NSURL(string: "https://raw.githubusercontent.com/Grigs-b/subtitle-test/master/subtitle-test.m3u8") else {
             fatalError("Unable to create URL")
         }
         let urlAsset = AVURLAsset(URL: playerURL)

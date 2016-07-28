@@ -10,7 +10,7 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="eng_spa64AACHEv1",LANGUAGE="eng",NAME="Original",AUTOSELECT=YES,DEFAULT=YES,URI="segments/HBOE-AAFPM-000-PGM-01-01-2500-HD-169-SR-1920x1080-50000-1557d6a5224.31_a6/prog_index.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="es",NAME="Español",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="segments/subtitles/es/prog_index.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="en",NAME="English",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="segments/subtitles/en/prog_index.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="nb",NAME="norsk",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="segments/subtitles/no/prog_index.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="no",NAME="norsk",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="segments/subtitles/no/prog_index.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",LANGUAGE="sv",NAME="Svenska,",AUTOSELECT=YES,DEFAULT=NO,FORCED=NO,URI="segments/subtitles/sv/prog_index.m3u8"
 
 #############################################################
